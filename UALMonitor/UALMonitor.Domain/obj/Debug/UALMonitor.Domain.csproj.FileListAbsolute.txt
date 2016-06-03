@@ -1,0 +1,4 @@
+C:\Projects\UALMonitor\UALMonitor.Domain\bin\Debug\UALMonitor.Domain.dll
+C:\Projects\UALMonitor\UALMonitor.Domain\bin\Debug\UALMonitor.Domain.pdb
+C:\Projects\UALMonitor\UALMonitor.Domain\obj\Debug\UALMonitor.Domain.dll
+C:\Projects\UALMonitor\UALMonitor.Domain\obj\Debug\UALMonitor.Domain.pdb

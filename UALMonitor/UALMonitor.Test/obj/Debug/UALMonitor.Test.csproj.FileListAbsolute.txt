@@ -1,0 +1,14 @@
+C:\Projects\UALMonitor\UALMonitor.Test\bin\Debug\UALMonitor.Test.dll
+C:\Projects\UALMonitor\UALMonitor.Test\bin\Debug\UALMonitor.Test.pdb
+C:\Projects\UALMonitor\UALMonitor.Test\bin\Debug\UALMonitor.DAL.dll
+C:\Projects\UALMonitor\UALMonitor.Test\bin\Debug\UALMonitor.Domain.dll
+C:\Projects\UALMonitor\UALMonitor.Test\bin\Debug\EntityFramework.dll
+C:\Projects\UALMonitor\UALMonitor.Test\bin\Debug\UALMonitor.Domain.pdb
+C:\Projects\UALMonitor\UALMonitor.Test\bin\Debug\UALMonitor.DAL.pdb
+C:\Projects\UALMonitor\UALMonitor.Test\bin\Debug\EntityFramework.xml
+C:\Projects\UALMonitor\UALMonitor.Test\obj\Debug\UALMonitor.Test.csprojResolveAssemblyReference.cache
+C:\Projects\UALMonitor\UALMonitor.Test\obj\Debug\UALMonitor.Test.dll
+C:\Projects\UALMonitor\UALMonitor.Test\obj\Debug\UALMonitor.Test.pdb
+C:\Projects\UALMonitor\UALMonitor.Test\bin\Debug\UALMonitor.Test.dll.config
+C:\Projects\UALMonitor\UALMonitor.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\UALMonitor\UALMonitor.Test\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,13 @@
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\bin\Debug\UALMonitor.UI.exe.config
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\bin\Debug\UALMonitor.UI.exe
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\bin\Debug\UALMonitor.UI.pdb
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\obj\Debug\UALMonitor.UI.csprojResolveAssemblyReference.cache
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\obj\Debug\App.g.cs
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\obj\Debug\UALMonitor.UI_MarkupCompile.cache
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\obj\Debug\UALMonitor.UI.g.resources
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\obj\Debug\UALMonitor.UI.Properties.Resources.resources
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\obj\Debug\UALMonitor.UI.csproj.GenerateResource.Cache
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\obj\Debug\UALMonitor.UI.exe
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\obj\Debug\UALMonitor.UI.pdb
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\obj\Debug\UALDashBoard.baml
+D:\Projects\UALMonitor\UALMonitor.UI\UALMonitor.UI\obj\Debug\UALDashBoard.g.cs

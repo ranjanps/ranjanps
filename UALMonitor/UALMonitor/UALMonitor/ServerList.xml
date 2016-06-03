@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Servers>
+  <Server>
+    <Name>S217124DKVW421</Name>
+    <UALPath>\\s217124dkvw421\\UserActions</UALPath>
+  </Server>
+  <Server>
+    <Name>S217124DKVW422</Name>
+    <UALPath>\\s217124dkvw422\\UserActions</UALPath>
+  </Server>
+  <Server>
+    <Name>S217124DKVW423</Name>
+    <UALPath>\\s217124dkvw423\\UserActions</UALPath>
+  </Server>
+  <Server>
+    <Name>S217124DKVW424</Name>
+    <UALPath>\\s217124dkvw424\\UserActions</UALPath>
+  </Server>
+  <Server>
+    <Name>S217124DKVW425</Name>
+    <UALPath>\\s217124dkvw425\\UserActions</UALPath>
+  </Server>
+  <Server>
+    <Name>S217124RGVW1148</Name>
+    <UALPath>\\S217124RGVW1148\\UserActions</UALPath>
+  </Server>
+  <Server>
+    <Name>S217124RGVW1151</Name>
+    <UALPath>\\S217124RGVW1151\\UserActions</UALPath>
+  </Server>
+  <Server>
+    <Name>S217124RGVW1152</Name>
+    <UALPath>\\S217124RGVW1152\\UserActions</UALPath>
+  </Server>
+  <Server>
+    <Name>S217124RGVW1154</Name>
+    <UALPath>\\S217124RGVW1154\\UserActions</UALPath>
+  </Server>
+  <Server>
+    <Name>S217124RGVW1156</Name>
+    <UALPath>\\S217124RGVW1156\\UserActions</UALPath>
+  </Server>
+<Server>
+    <Name>ranjans</Name>
+    <UALPath>\\ranjans\\UserActions</UALPath>
+  </Server>
+</Servers>
